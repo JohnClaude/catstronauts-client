@@ -6,7 +6,7 @@ import { colors } from "../styles";
  * Footer is useless component to make our app look a little closer to a real website!
  */
 const Footer = ({ children }) => {
-  return <FooterContainer>2022 © johnclaude.com</FooterContainer>;
+  return <FooterContainer>2022 © johnclaude.com</FooterContainer>
 };
 
 export default Footer;
